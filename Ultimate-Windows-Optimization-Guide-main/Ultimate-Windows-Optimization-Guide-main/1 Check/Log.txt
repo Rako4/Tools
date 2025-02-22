@@ -1,0 +1,8 @@
+========= TestMem5 Log File =========
+Customize: ABSOLUT(01102021) @anta777
+Start testing at 23:44, 640Mb x6
+
+
+========= TestMem5 Log File =========
+Customize: ABSOLUT(01102021) @anta777
+Start testing at 23:47, 2.4Gb x12
